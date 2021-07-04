@@ -5,4 +5,7 @@
 - [x] Authentication
 - [x] Arch.
 - [x] Styles
-- [ ] Log In
+- [ ] Log In / Sign Up
+- [ ] Feed
+- [ ] Profile
+- [ ] See Hashtag
